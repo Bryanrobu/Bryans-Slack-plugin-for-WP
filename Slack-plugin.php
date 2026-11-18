@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Bryans-plugin
+ * Plugin Name: Slack-plugin
  * Description: Slack plugin
  * Author: Bryan
  * Version: 1.0.0
